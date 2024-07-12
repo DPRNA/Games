@@ -1,4 +1,4 @@
-package hw3;
+package Connect4;
 
 import static org.junit.Assert.*;
 
