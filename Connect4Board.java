@@ -1,6 +1,6 @@
 package Connect4;
 
-public class Board {
+public class Connect4Board {
 	// Add whatever private fields you need here.
 	// Remember, only variables of type int, char, boolean, and 1D and 2D arrays
 	// of these types are allowed.
