@@ -1,9 +1,9 @@
-package hw3;
+package Connect4;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
-public class Game {
+public class Connect4Game {
 	/*
 	 * This main can be used to play a game of Connect 4.  It requires that you also
 	 * implement an appropriate toString method so that the board is displayed to the
