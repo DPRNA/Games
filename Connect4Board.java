@@ -1,4 +1,4 @@
-package hw3;
+package Connect4;
 
 public class Board {
 	// Add whatever private fields you need here.
